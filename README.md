@@ -1,4 +1,5 @@
-# react-plugin-test
+# react-plugin-test ![DEPRECATED](https://img.shields.io/badge/status-DEPRECATED-red.svg?style=flat-square)
+
 Test ability to use UI Plugins, safe and broken.
 
 The reason to make it was to check if renreding of plugin component with `React.render()` will happen multiple times or only once and to check if it is safe for main app to add broken components.
